@@ -7,7 +7,7 @@
     "date": "12/02/2564",
     "customerName": "คุณสมชาย",
     "paymentAmount": 1000000.0,
-    "status": "รอชำระเงิน",
+    "status": "รอชำระเงิน"
   },
   {
     "no": 2,
@@ -16,7 +16,7 @@
     "date": "09/05/2564",
     "customerName": "คุณสมหมาย",
     "paymentAmount": 20000.0,
-    "status": "รอตรวจสอบ",
+    "status": "รอตรวจสอบ"
   },
   {
     "no": 3,
@@ -25,7 +25,7 @@
     "date": "07/02/2564",
     "customerName": "คุณมีสุข",
     "paymentAmount": 500000.0,
-    "status": "จ่ายแล้ว",
+    "status": "จ่ายแล้ว"
   },
   {
     "no": 4,
@@ -34,7 +34,7 @@
     "date": "22/08/2564",
     "customerName": "คุณกิต",
     "paymentAmount": 550000.0,
-    "status": "ไม่สำเร็จ",
+    "status": "ไม่สำเร็จ"
   },
   {
     "no": 5,
@@ -43,7 +43,7 @@
     "date": "21/06/2564",
     "customerName": "คุณคิดดี",
     "paymentAmount": 2750000.0,
-    "status": "ยกเลิก",
+    "status": "ยกเลิก"
   },
   {
     "no": 6,
@@ -52,7 +52,7 @@
     "date": "12/02/2564",
     "customerName": "คุณอาทิตย์",
     "paymentAmount": 10510000.0,
-    "status": "รอชำระเงิน",
+    "status": "รอชำระเงิน"
   },
   {
     "no": 7,
@@ -61,7 +61,7 @@
     "date": "09/05/2564",
     "customerName": "คุณมั่งมี",
     "paymentAmount": 200500.0,
-    "status": "รอตรวจสอบ",
+    "status": "รอตรวจสอบ"
   },
   {
     "no": 8,
@@ -70,7 +70,7 @@
     "date": "07/02/2564",
     "customerName": "คุณเฮงเฮง",
     "paymentAmount": 370000.0,
-    "status": "จ่ายแล้ว",
+    "status": "จ่ายแล้ว"
   },
   {
     "no": 9,
@@ -79,7 +79,7 @@
     "date": "22/08/2564",
     "customerName": "คุณใจเดียว",
     "paymentAmount": 150100.0,
-    "status": "ไม่สำเร็จ",
+    "status": "ไม่สำเร็จ"
   },
   {
     "no": 10,
@@ -88,7 +88,7 @@
     "date": "21/06/2564",
     "customerName": "คุณข้างกาย",
     "paymentAmount": 270090.0,
-    "status": "ยกเลิก",
+    "status": "ยกเลิก"
   }
  ]
 }
